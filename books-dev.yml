@@ -1,0 +1,2 @@
+config:
+  value: "Hello from Config Server!"
